@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <table>
+            <thead>
+                <tr>
+                    <th>NAME</th>
+                    <th>AGE</th>
+                    <th>ADDRESS</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th> Michael </th>
+                    <th>20</th>
+                    <th>Bandung</th>
+                </tr>
+                <tr>
+                    <th>JON</th>
+                    <th>23</th>
+                    <th>Bandung</th>
+                </tr>
+            </tbody>
+        </table>
+
+        <form action = "http://localhost:5000/process" method="get">
+            <label for="name">NAME</label>
+            <input id = "name" name = "name"><br>
+            <label for = "age">AGE</label>
+            <input id = "age" name = "age"><br>
+            <label for = "addr">ADDRESS</label>
+            <input id = "addr" name = "addr"><br>
+            <input type = "submit" value="Submit">
+        </form>
+    </body>
+</html>
