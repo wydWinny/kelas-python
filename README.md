@@ -12,4 +12,7 @@ print(x)
 ## Ini adalah tulisan yang ditambahkan lewat github.com
 
 ## Ini yang dibuat di Laptop
+======
+## ini saya update dari github.com,supaya terjadi perubahan barengan
+
 
