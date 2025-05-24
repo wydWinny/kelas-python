@@ -10,3 +10,5 @@ x =1+2
 print(x)
 ```
 ## Ini adalah tulisan yang ditambahkan lewat github.com
+
+## Ini saya update dari github.com, supaya terjadi perubahan bersama
